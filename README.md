@@ -3,6 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.instagram.com/muhammadfarhandg.m?igsh=MW82dnM2Y2d3cDNxbg==" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Profile">
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
